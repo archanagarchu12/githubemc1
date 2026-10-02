@@ -1,1 +1,2 @@
 created test1.txt  file 
+now editing this text file to check whether changes made in github are reflecting here or not
